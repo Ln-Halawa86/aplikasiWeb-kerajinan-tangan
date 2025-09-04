@@ -12,7 +12,7 @@ Aplikasi ini menyediakan fitur belanja bagi pelanggan serta **panel admin** yang
 
 
 
-**english**
+
 
 # Handicraft Store Web Application
 
@@ -25,4 +25,5 @@ The application offers shopping features for customers as well as an **admin pan
 - **CSS**
 - **JavaScript (JS)**
 - **PHP**
+
 
